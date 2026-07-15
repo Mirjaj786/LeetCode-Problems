@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/1025-divisor-game) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
