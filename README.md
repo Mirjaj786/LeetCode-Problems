@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0997-find-the-town-judge](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/1192-critical-connections-in-a-network) |
 ## Topological Sort
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0733-flood-fill](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0733-flood-fill) |
+| [0997-find-the-town-judge](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0997-find-the-town-judge) |
 ## Matrix
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
